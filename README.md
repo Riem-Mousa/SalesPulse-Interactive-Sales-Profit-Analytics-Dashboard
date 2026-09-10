@@ -13,4 +13,5 @@ Profitability Mapping: Product category profit distribution (Technology, Office 
 Segment Profiling: In-depth view of profit margin variations across Consumer, Corporate, and Home Office segments.
 
 Tools Used
+
 Microsoft Excel (Interactive Slicers, Custom Charting, Dynamic Formulas)
